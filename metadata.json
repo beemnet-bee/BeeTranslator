@@ -1,0 +1,7 @@
+{
+  "name": "Bee Translator",
+  "description": "A futuristic translator inspired by the efficiency of bees, featuring a modern glassmorphism design and dynamic animated backgrounds.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
